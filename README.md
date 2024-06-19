@@ -1,1 +1,1 @@
-It is a TODO Application buit using HTML, CSS, and JS.
+It is a TODO Application built using HTML, CSS, and JS.
